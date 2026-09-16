@@ -1,8 +1,6 @@
 <p align="center">
   <a href="https://github.com/Alfie134">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=<p align="center">
-  <a href="https://github.com/Alfie134">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a371f7&fontSize=54&height=90&width=634&text=Hiya!%20I'm%20Alberte" alt="Hiya! I&#39;m Alberte" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a371f7&fontSize=54&height=90&width=634&text=Hiya!%20I'm%20Alberte" alt="hiya! I&#39;m Alberte" />
   </a>
 </p>
 
