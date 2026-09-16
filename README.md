@@ -70,6 +70,5 @@ I am passionate about the small details, and have a personal interest in fronten
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Alfie134">Alfie134</a></i></p>
-&fontSize=54&height=90&width=634&text=Hiya!%20I'm%20Alberte" alt="Hiya! I&#39;m Alberte" />
   </a>
 </p>
